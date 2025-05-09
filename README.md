@@ -10,25 +10,42 @@ As a field, theoretical paradigm modelling is still in its formative stages, mak
 
 #
 ```
-1. Cognitive-Ecological Interaction Model (CEIM)
-
-- Explores how individual cognitive biases interact with environmental feedback loops to drive shifts in collective belief systems.
-
-2. Multi-Scale Adaptive Systems Model (MASM)
-
-- Simulates paradigm evolution across nested scales of organization, from individual agents to global institutions, incorporating nonlinear dynamics.
-
-3. Neuro-Social Plasticity Model (NSPM)
-
-- Integrates findings from neuroscience and sociology to map how neural plasticity and social structures co-evolve, leading to paradigm reconfiguration.
-
-4. Techno-Cultural Resonance Model (TCRM)
-
-- Examines the feedback cycles between emerging technologies and cultural narratives to predict and explain paradigm shifts.
-
-5. Evolutionary Constraint-Release Model (ECRM)
-
-- Models how evolutionary pressures suppress or release innovative paradigms through mechanisms of constraint, competition, and environmental perturbation.
+Paradigm Modelling
+├── Foundational Theories
+│   ├── Complexity Theory
+│   ├── Evolutionary Biology
+│   ├── Cognitive Psychology
+│   ├── Neuroscience
+│   ├── Artificial Intelligence
+│   └── Social Sciences
+├── Core Concepts
+│   ├── Paradigm Shift Detection
+│   ├── Cognitive Bias Modelling
+│   ├── Agent-Based Interactions
+│   ├── Emergent Dynamics
+│   └── Multidimensional Mapping
+├── Methodological Frameworks
+│   ├── Computational Simulations
+│   ├── Data-Driven Empirical Validation
+│   ├── Theoretical Abstraction Tools
+│   └── Interdisciplinary Integration
+├── Technological Tools
+│   ├── Interactive Visualizations
+│   ├── Evolutionary Algorithms
+│   ├── Neural-Symbolic Systems
+│   └── Dynamic System Mapping
+├── Application Domains
+│   ├── Climate Change
+│   ├── Economics & Finance
+│   ├── Healthcare Innovation
+│   ├── Education Reform
+│   ├── Technological Disruption
+│   └── Governance & Policy
+└── Educational Programs
+    ├── Curriculum Design
+    ├── Paradigm Thinking Workshops
+    ├── Cross-Disciplinary Labs
+    └── Future-Scouting Exercises
 ```
 #
 
