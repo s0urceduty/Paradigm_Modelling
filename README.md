@@ -9,5 +9,27 @@ This kind of modelling holds significant promise for improving and expanding sci
 As a field, theoretical paradigm modelling is still in its formative stages, making it both novel and revolutionary. It represents a synthesis rather than a single discipline—more akin to a science of sciences or a meta-theoretical platform—that brings together diverse methods and epistemologies to map and steer the evolution of knowledge itself. Unlike traditional sciences that study phenomena within fixed frameworks, paradigm modelling is concerned with the evolution of those frameworks themselves. In this sense, it is a new science, but one that stands on the shoulders of many others. Its novelty lies not in discarding established science, but in enabling a more reflective, adaptive, and systemic practice of science that is capable of evolving in step with the world it seeks to understand. 
 
 #
+```
+1. Cognitive-Ecological Interaction Model (CEIM)
+
+- Explores how individual cognitive biases interact with environmental feedback loops to drive shifts in collective belief systems.
+
+2. Multi-Scale Adaptive Systems Model (MASM)
+
+- Simulates paradigm evolution across nested scales of organization, from individual agents to global institutions, incorporating nonlinear dynamics.
+
+3. Neuro-Social Plasticity Model (NSPM)
+
+- Integrates findings from neuroscience and sociology to map how neural plasticity and social structures co-evolve, leading to paradigm reconfiguration.
+
+4. Techno-Cultural Resonance Model (TCRM)
+
+- Examines the feedback cycles between emerging technologies and cultural narratives to predict and explain paradigm shifts.
+
+5. Evolutionary Constraint-Release Model (ECRM)
+
+- Models how evolutionary pressures suppress or release innovative paradigms through mechanisms of constraint, competition, and environmental perturbation.
+```
+#
 
 [Theoretical Paradigm](https://chatgpt.com/g/g-681e71dfcc708191a45fb5beb2c0bba7-theoretical-paradigm)
