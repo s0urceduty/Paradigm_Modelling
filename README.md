@@ -1,4 +1,4 @@
-![Theoretical Paradigm](https://github.com/user-attachments/assets/918ae0e4-4033-404f-a89f-0303936b7adf)
+![Paradigm Modelling](https://github.com/user-attachments/assets/e8581276-6c65-4f08-af27-fb04cb2bdf8d)
 
 #
 
