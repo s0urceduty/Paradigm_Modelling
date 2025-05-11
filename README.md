@@ -66,3 +66,5 @@ Furthermore, paradigm modelling recognizes that a ToE is not merely a physical c
 [Theoretical Paradigm](https://chatgpt.com/g/g-681e71dfcc708191a45fb5beb2c0bba7-theoretical-paradigm)
 <br>
 [ToE Core](https://chatgpt.com/g/g-67ba34331820819194386867067c2dd3-toe-core)
+<br>
+[Taxonomy Topodynamics](https://chatgpt.com/g/g-6820b97ac53c8191b6130c2d6cfdc50d-taxonomy-topodynamics)
